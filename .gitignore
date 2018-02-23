@@ -110,3 +110,5 @@ ENV/
 # data
 data/faces/
 data/news_data/
+jupyter_russian/topic01_pandas_data_analysis/int_plan_and_churn.png
+jupyter_russian/topic01_pandas_data_analysis/serv_calls__and_churn.png
