@@ -1,3 +1,6 @@
+:uk: [English version](https://github.com/Yorko/mlcourse_open/wiki/Passing-cs231n-together) :uk:
+
+
 #mlcourse_open – базовый курс машинного обучения, до нейронных сетей не доходим. Поэтому там же в Slack OpenDataScience в канале #class_cs231n проходим один из лучших курсов по нейронным сетям - стэнфордский [cs231n](http://cs231n.stanford.edu/) "Convolutional Neural Networks for Visual Recognition".
 
 **Главные ссылки**
@@ -38,4 +41,4 @@
 - 03.06.18 – дедлайн по ДЗ 2. Решения загружать [сюда](https://www.dropbox.com/request/SYokh4VUuIpZRFe1bPHM)
 - 04.06.18 – 10.06.18. Лекция 13 и Лекция 14
 - 11.06.18 – 17.06.18. Лекция 15 и Лекция 16
-- 17.06.18 – дедлайн по ДЗ 3. Решения загружать [сюда](https://www.dropbox.com/request/omK1M8XNUH7KvGps3siF)
+- 01.07.18 – дедлайн по ДЗ 3. Решения загружать [сюда](https://www.dropbox.com/request/omK1M8XNUH7KvGps3siF)
