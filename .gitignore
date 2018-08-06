@@ -113,4 +113,6 @@ data/news_data/
 jupyter_russian/topic01_pandas_data_analysis/int_plan_and_churn.png
 jupyter_russian/topic01_pandas_data_analysis/serv_calls__and_churn.png
 data/imdb_data/
+data/stackoverflow_sample_125k.tsv
+data/aclImdb/
 jupyter_russian/topic01_pandas_data_analysis/int_plan_and_churn.png
